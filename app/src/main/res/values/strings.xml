@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Helmy App</string>
+    <string name="app_name_2">Helmy App</string>
+    <string name="assignment">Aplikasi Komputasi Bergerak</string>
+    <string name="title_profile">Profil</string>
+    <string name="title_contact">Kontak</string>
+    <string name="title_friends">Daftar Teman</string>
+    <string name="title_friend_detail">Rincian Teman</string>
+    <string name="_title_add_friend">Tambah Teman</string>
+    <string name="application">Aplikasi</string>
+    <string name="creator">Creator</string>
+    <string name="my_name">M Helmy H</string>
+    <string name="my_nim">10116298</string>
+    <string name="my_class">IF - 7</string>
+    <string name="major">Teknik Informatika</string>
+    <string name="university">Universitas Komputer Indonesia</string>
+    <string name="my_desc">Seorang calon mayat</string>
+    <string name="phone">Telepon</string>
+    <string name="email">Email</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">Twitter</string>
+    <string name="my_number">+62 857 2121 8965</string>
+    <string name="my_email">helmy.hudiya@gmail.com</string>
+    <string name="my_ig">\mohammed_helmyg</string>
+    <string name="name">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="class_">Kelas</string>
+    <string name="save">Simpan</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Hapus</string>
+    <string name="login">Masuk</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Belum memiliki akun?</string>
+    <string name="sign_up">Daftar</string>
+    <string name="edit_friend">Edit Teman</string>
+    <string name="login_failed_msg">Username atau password Anda salah!</string>
+    <string name="sign_up_failed_msg">Username telah terdaftar!</string>
+    <string name="title_home">Beranda</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_out">Keluar</string>
+    <string name="welcome_you_logged_in_as">Selamat datang, Anda masuk sebagai:</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#000000</color>
+    <color name="colorGreen">#00BFA5</color>
+    <color name="colorMuted">#000000</color>
+    <color name="colorSemiWhite">#DDDDDD</color>
+    <color name="sunFlower"></color>
+    <color name="lightYellow">#00A2F2</color>
+    <color name="abu">#BBBBBB</color>
+    <color name="abujanda">#CDCDCD</color>
+</resources>
